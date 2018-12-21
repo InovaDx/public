@@ -5,8 +5,7 @@ This is an education project for people interested in learning and practising da
 
 There will be a number of notebooks covering different data science aspects.
 
-Click on this link to access the notebooks in this repository:
-https://colab.research.google.com/github/InovaDx/public/
+Click on this link to access the notebooks in this repository: [Inova training notebooks on Google Colaboratory](https://colab.research.google.com/github/InovaDx/public/)
 
 ## Prerequisites
 None at this moment.
